@@ -3,8 +3,11 @@
 
 clone using:
 ```
+
 git clone https://github.com/PSYCHOBITx/Natural-Language-Processing.git
 ```
+
+
 #### Used algorithms are as follows:
 - Decision Tree classifier
 - Suport Vector Classifier
